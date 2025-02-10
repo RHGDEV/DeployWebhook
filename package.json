@@ -1,7 +1,14 @@
 {
+  "name": "deploywebhook",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "author": "Rusty (RHG)",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "child_process": "^1.0.2",
-    "express": "^4.21.2",
-    "fs": "^0.0.1-security"
+    "express": "^4.21.2"
   }
 }
