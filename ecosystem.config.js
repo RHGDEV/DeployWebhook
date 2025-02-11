@@ -2,6 +2,6 @@ module.exports = {
 	apps : [{
 		name: 'DeployWebhook',
 		script: 'npm',
-		args: 'start',
+		args: 'run start',
 	}],
 };
